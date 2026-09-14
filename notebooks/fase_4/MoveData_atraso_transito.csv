@@ -1,0 +1,343 @@
+﻿id_viagem;dt_inicio;dt_fim;qt_tempo_previsto;qt_tempo_real;ds_status;nm_linha;ds_origem;ds_destino;qt_nivel_congestionamento_pct;qt_velocidade_media_kmh;dt_transito
+3;2026-05-01 06:10:00;2026-05-01 07:37:00;68;87,0;Concluida;Linha Circular 1;Centro;Bairro Industrial;91;10,11;2026-05-01 06:45:00
+7;2026-05-01 08:30:00;2026-05-01 09:53:00;84;83,0;Concluida;Linha Beta Oeste;Oeste;Centro;81;14,78;2026-05-01 08:49:00
+9;2026-05-01 09:40:00;2026-05-01 10:56:00;77;76,0;Concluida;Linha Universitaria 1;Centro;Universidade Alpha;60;31,34;2026-05-01 10:05:00
+12;2026-05-01 11:25:00;2026-05-01 12:06:00;36;41,0;Concluida;Linha Hospital Sul;Hospital Alpha;Centro;69;25,64;2026-05-01 11:43:00
+13;2026-05-01 12:00:00;2026-05-01 12:51:00;55;51,0;Concluida;Linha Comercial Norte;Centro;Distrito Comercial;57;36,17;2026-05-01 12:45:00
+14;2026-05-01 12:35:00;2026-05-01 13:43:00;62;68,0;Concluida;Linha Comercial Sul;Distrito Comercial;Centro;8;59,2;2026-05-01 12:59:00
+15;2026-05-01 13:10:00;2026-05-01 14:36:00;76;86,0;Concluida;Linha Industrial 1;Centro;Polo Industrial;14;47,01;2026-05-01 13:18:00
+19;2026-05-01 15:30:00;2026-05-01 16:37:00;72;67,0;Concluida;Linha Parque Verde;Centro;Parque Verde;73;36,25;2026-05-01 15:45:00
+23;2026-05-01 17:50:00;2026-05-01 19:17:00;66;87,0;Concluida;Linha Shopping Norte;Centro;Shopping Alpha;35;44,51;2026-05-01 18:22:00
+24;2026-05-01 18:25:00;2026-05-01 20:09:00;89;104,0;Concluida;Linha Shopping Sul;Shopping Alpha;Centro;99;9,47;2026-05-01 18:54:00
+25;2026-05-01 19:00:00;2026-05-01 20:27:00;73;87,0;Concluida;Linha Terminal Oeste;Terminal Oeste;Centro;33;62,01;2026-05-01 19:45:00
+26;2026-05-01 19:35:00;2026-05-01 20:35:00;53;60,0;Concluida;Linha Terminal Leste;Centro;Terminal Leste;68;21,13;2026-05-01 20:07:00
+27;2026-05-01 20:10:00;2026-05-01 21:11:00;58;61,0;Concluida;Linha Circular Norte;Norte;Oeste;16;56,98;2026-05-01 20:44:00
+28;2026-05-01 20:45:00;2026-05-01 22:43:00;93;118,0;Concluida;Linha Circular Sul;Sul;Leste;21;43,96;2026-05-01 20:56:00
+29;2026-05-01 21:20:00;2026-05-01 22:39:00;85;79,0;Concluida;Linha Metropolitana 1;Centro;Cidade Beta;88;21,16;2026-05-01 21:52:00
+30;2026-05-01 21:55:00;2026-05-01 23:34:00;76;99,0;Concluida;Linha Metropolitana 2;Cidade Beta;Centro;81;18,19;2026-05-01 22:29:00
+31;2026-05-01 22:30:00;2026-05-01 23:37:00;50;67,0;Concluida;Linha Expresso Norte;Terminal Norte;Terminal Sul;71;23,36;2026-05-01 22:48:00
+32;2026-05-01 23:05:00;2026-05-02 00:20:00;63;75,0;Concluida;Linha Expresso Sul;Terminal Sul;Terminal Norte;65;21,13;2026-05-01 23:36:00
+33;2026-05-01 23:40:00;2026-05-02 00:20:00;35;40,0;Concluida;Linha Escolar 1;Centro;Escola Alpha;7;51,44;2026-05-02 00:18:00
+34;2026-05-02 00:15:00;2026-05-02 02:05:00;90;110,0;Concluida;Linha Escolar 2;Escola Alpha;Centro;74;35,29;2026-05-02 00:46:00
+37;2026-05-02 05:35:00;2026-05-02 07:08:00;90;93,0;Concluida;Linha Ecologica 1;Parque Verde;Centro;94;11,84;2026-05-02 05:46:00
+38;2026-05-02 06:10:00;2026-05-02 07:33:00;80;83,0;Concluida;Linha Ecologica 2;Centro;Parque Azul;44;47,72;2026-05-02 06:22:00
+39;2026-05-02 06:45:00;2026-05-02 07:18:00;37;33,0;Concluida;Linha Bairro Alto;Bairro Alto;Centro;12;41,12;2026-05-02 07:17:00
+44;2026-05-02 09:40:00;2026-05-02 10:46:00;51;66,0;Concluida;Linha Circular 2;Bairro Industrial;Centro;58;28,48;2026-05-02 10:19:00
+45;2026-05-02 10:15:00;2026-05-02 11:53:00;79;98,0;Concluida;Linha Alpha Norte;Alvorada;Norte;5;64,25;2026-05-02 10:30:00
+46;2026-05-02 10:50:00;2026-05-02 12:28:00;84;98,0;Concluida;Linha Alpha Sul;Sul;Centro;22;43,43;2026-05-02 11:02:00
+47;2026-05-02 11:25:00;2026-05-02 12:56:00;85;91,0;Concluida;Linha Beta Oeste;Oeste;Centro;31;41,4;2026-05-02 11:41:00
+49;2026-05-02 12:35:00;2026-05-02 13:16:00;42;41,0;Concluida;Linha Universitaria 1;Centro;Universidade Alpha;83;10,6;2026-05-02 13:08:00
+50;2026-05-02 13:10:00;2026-05-02 14:08:00;39;58,0;Concluida;Linha Universitaria 2;Universidade Alpha;Centro;80;16,11;2026-05-02 13:45:00
+51;2026-05-02 13:45:00;2026-05-02 15:06:00;60;81,0;Concluida;Linha Hospital Norte;Centro;Hospital Alpha;46;56,87;2026-05-02 13:54:00
+53;2026-05-02 14:55:00;2026-05-02 15:37:00;37;42,0;Concluida;Linha Comercial Norte;Centro;Distrito Comercial;69;32,07;2026-05-02 15:09:00
+54;2026-05-02 15:30:00;2026-05-02 16:45:00;62;75,0;Concluida;Linha Comercial Sul;Distrito Comercial;Centro;5;62,9;2026-05-02 15:40:00
+55;2026-05-02 16:05:00;2026-05-02 17:32:00;81;87,0;Concluida;Linha Industrial 1;Centro;Polo Industrial;92;18,99;2026-05-02 16:49:00
+57;2026-05-02 17:15:00;2026-05-02 18:39:00;77;84,0;Concluida;Linha Residencial A;Residencial Alpha;Centro;16;35,25;2026-05-02 17:49:00
+65;2026-05-02 21:55:00;2026-05-02 23:11:00;78;76,0;Concluida;Linha Terminal Oeste;Terminal Oeste;Centro;64;24,92;2026-05-02 22:20:00
+67;2026-05-02 23:05:00;2026-05-03 00:02:00;40;57,0;Concluida;Linha Circular Norte;Norte;Oeste;12;50,43;2026-05-02 23:50:00
+68;2026-05-02 23:40:00;2026-05-03 01:01:00;58;81,0;Concluida;Linha Circular Sul;Sul;Leste;75;33,94;2026-05-03 00:02:00
+71;2026-05-03 05:00:00;2026-05-03 06:28:00;89;88,0;Concluida;Linha Expresso Norte;Terminal Norte;Terminal Sul;54;25,62;2026-05-03 05:08:00
+74;2026-05-03 06:45:00;2026-05-03 07:22:00;37;37,0;Concluida;Linha Escolar 2;Escola Alpha;Centro;38;47,98;2026-05-03 06:53:00
+79;2026-05-03 09:40:00;2026-05-03 10:31:00;35;51,0;Concluida;Linha Bairro Alto;Bairro Alto;Centro;15;45,92;2026-05-03 10:13:00
+80;2026-05-03 10:15:00;2026-05-03 11:11:00;55;56,0;Concluida;Linha Bairro Novo;Bairro Novo;Centro;71;25,05;2026-05-03 10:37:00
+81;2026-05-03 10:50:00;2026-05-03 11:52:00;64;62,0;Concluida;Linha Centro Norte;Terminal Norte;Centro;84;15,98;2026-05-03 11:23:00
+83;2026-05-03 12:00:00;2026-05-03 13:36:00;92;96,0;Concluida;Linha Circular 1;Centro;Bairro Industrial;72;27,76;2026-05-03 12:33:00
+84;2026-05-03 12:35:00;2026-05-03 14:10:00;83;95,0;Concluida;Linha Circular 2;Bairro Industrial;Centro;54;32,99;2026-05-03 13:15:00
+85;2026-05-03 13:10:00;2026-05-03 14:01:00;50;51,0;Concluida;Linha Alpha Norte;Alvorada;Norte;18;43,4;2026-05-03 13:25:00
+86;2026-05-03 13:45:00;2026-05-03 14:40:00;38;55,0;Concluida;Linha Alpha Sul;Sul;Centro;86;12,5;2026-05-03 13:57:00
+88;2026-05-03 14:55:00;2026-05-03 15:49:00;58;54,0;Concluida;Linha Beta Leste;Leste;Centro;96;13,27;2026-05-03 15:31:00
+89;2026-05-03 15:30:00;2026-05-03 17:10:00;80;100,0;Concluida;Linha Universitaria 1;Centro;Universidade Alpha;87;11,68;2026-05-03 15:43:00
+92;2026-05-03 17:15:00;2026-05-03 18:52:00;91;97,0;Concluida;Linha Hospital Sul;Hospital Alpha;Centro;53;31,52;2026-05-03 17:23:00
+94;2026-05-03 18:25:00;2026-05-03 20:00:00;94;95,0;Concluida;Linha Comercial Sul;Distrito Comercial;Centro;51;32,6;2026-05-03 18:55:00
+97;2026-05-03 20:10:00;2026-05-03 21:23:00;61;73,0;Concluida;Linha Residencial A;Residencial Alpha;Centro;98;9,98;2026-05-03 20:49:00
+98;2026-05-03 20:45:00;2026-05-03 21:47:00;66;62,0;Concluida;Linha Residencial B;Centro;Residencial Beta;64;35,98;2026-05-03 21:03:00
+100;2026-05-03 21:55:00;2026-05-03 23:17:00;85;82,0;Concluida;Linha Parque Azul;Parque Azul;Centro;87;13,05;2026-05-03 22:14:00
+105;2026-05-04 00:50:00;2026-05-04 01:51:00;67;61,0;Concluida;Linha Terminal Oeste;Terminal Oeste;Centro;37;46,9;2026-05-04 01:04:00
+111;2026-05-04 07:55:00;2026-05-04 09:31:00;88;96,0;Concluida;Linha Expresso Norte;Terminal Norte;Terminal Sul;20;47,51;2026-05-04 08:01:00
+116;2026-05-04 10:50:00;2026-05-04 12:17:00;92;87,0;Concluida;Linha Inovacao;Parque Tecnologico;Centro;68;35,58;2026-05-04 11:15:00
+117;2026-05-04 11:25:00;2026-05-04 13:04:00;80;99,0;Concluida;Linha Ecologica 1;Parque Verde;Centro;66;29,85;2026-05-04 11:55:00
+119;2026-05-04 12:35:00;2026-05-04 13:21:00;37;46,0;Concluida;Linha Bairro Alto;Bairro Alto;Centro;10;51,33;2026-05-04 13:14:00
+120;2026-05-04 13:10:00;2026-05-04 14:00:00;46;50,0;Concluida;Linha Bairro Novo;Bairro Novo;Centro;46;35,65;2026-05-04 13:27:00
+121;2026-05-04 13:45:00;2026-05-04 15:19:00;84;94,0;Concluida;Linha Centro Norte;Terminal Norte;Centro;41;58,99;2026-05-04 14:05:00
+122;2026-05-04 14:20:00;2026-05-04 16:03:00;91;103,0;Concluida;Linha Centro Sul;Centro;Terminal Sul;55;33,13;2026-05-04 14:50:00
+125;2026-05-04 16:05:00;2026-05-04 17:25:00;61;80,0;Concluida;Linha Alpha Norte;Alvorada;Norte;34;47,58;2026-05-04 16:49:00
+126;2026-05-04 16:40:00;2026-05-04 18:05:00;60;85,0;Concluida;Linha Alpha Sul;Sul;Centro;33;63,79;2026-05-04 17:19:00
+129;2026-05-04 18:25:00;2026-05-04 19:19:00;48;54,0;Concluida;Linha Universitaria 1;Centro;Universidade Alpha;55;34,57;2026-05-04 19:01:00
+130;2026-05-04 19:00:00;2026-05-04 20:03:00;71;63,0;Concluida;Linha Universitaria 2;Universidade Alpha;Centro;71;31,26;2026-05-04 19:40:00
+132;2026-05-04 20:10:00;2026-05-04 21:42:00;72;92,0;Concluida;Linha Hospital Sul;Hospital Alpha;Centro;48;57,18;2026-05-04 20:51:00
+135;2026-05-04 21:55:00;2026-05-04 23:13:00;64;78,0;Concluida;Linha Industrial 1;Centro;Polo Industrial;26;57,06;2026-05-04 22:09:00
+136;2026-05-04 22:30:00;2026-05-05 00:06:00;93;96,0;Concluida;Linha Industrial 2;Polo Industrial;Centro;91;13,12;2026-05-04 23:00:00
+137;2026-05-04 23:05:00;2026-05-05 00:28:00;66;83,0;Concluida;Linha Residencial A;Residencial Alpha;Centro;98;15,4;2026-05-04 23:12:00
+140;2026-05-05 00:50:00;2026-05-05 01:53:00;64;63,0;Concluida;Linha Parque Azul;Parque Azul;Centro;47;64,21;2026-05-05 01:24:00
+141;2026-05-05 05:00:00;2026-05-05 06:37:00;81;97,0;Concluida;Linha Aeroporto 1;Centro;Aeroporto Alpha;62;32,12;2026-05-05 05:12:00
+145;2026-05-05 07:20:00;2026-05-05 08:34:00;78;74,0;Concluida;Linha Terminal Oeste;Terminal Oeste;Centro;97;20,81;2026-05-05 07:40:00
+148;2026-05-05 09:05:00;2026-05-05 09:58:00;55;53,0;Concluida;Linha Circular Sul;Sul;Leste;72;37,48;2026-05-05 09:20:00
+151;2026-05-05 10:50:00;2026-05-05 11:25:00;35;35,0;Concluida;Linha Expresso Norte;Terminal Norte;Terminal Sul;46;60,29;2026-05-05 11:00:00
+153;2026-05-05 12:00:00;2026-05-05 13:54:00;91;114,0;Concluida;Linha Escolar 1;Centro;Escola Alpha;20;48,52;2026-05-05 12:30:00
+154;2026-05-05 12:35:00;2026-05-05 13:43:00;61;68,0;Concluida;Linha Escolar 2;Escola Alpha;Centro;46;57,17;2026-05-05 12:46:00
+155;2026-05-05 13:10:00;2026-05-05 14:09:00;54;59,0;Concluida;Linha Tecnologia;Centro;Parque Tecnologico;38;50,94;2026-05-05 13:21:00
+160;2026-05-05 16:05:00;2026-05-05 17:45:00;86;100,0;Concluida;Linha Bairro Novo;Bairro Novo;Centro;59;30,95;2026-05-05 16:37:00
+161;2026-05-05 16:40:00;2026-05-05 18:05:00;84;85,0;Concluida;Linha Centro Norte;Terminal Norte;Centro;22;61,68;2026-05-05 16:47:00
+162;2026-05-05 17:15:00;2026-05-05 18:33:00;80;78,0;Concluida;Linha Centro Sul;Centro;Terminal Sul;63;31,46;2026-05-05 17:21:00
+163;2026-05-05 17:50:00;2026-05-05 19:29:00;83;99,0;Concluida;Linha Circular 1;Centro;Bairro Industrial;27;52,43;2026-05-05 18:16:00
+164;2026-05-05 18:25:00;2026-05-05 19:34:00;61;69,0;Concluida;Linha Circular 2;Bairro Industrial;Centro;42;43,51;2026-05-05 19:00:00
+166;2026-05-05 19:35:00;2026-05-05 20:53:00;73;78,0;Concluida;Linha Alpha Sul;Sul;Centro;34;52,26;2026-05-05 19:41:00
+167;2026-05-05 20:10:00;2026-05-05 20:48:00;41;38,0;Concluida;Linha Beta Oeste;Oeste;Centro;6;50,43;2026-05-05 20:26:00
+168;2026-05-05 20:45:00;2026-05-05 22:27:00;77;102,0;Concluida;Linha Beta Leste;Leste;Centro;18;35,26;2026-05-05 21:01:00
+172;2026-05-05 23:05:00;2026-05-06 00:11:00;46;66,0;Concluida;Linha Hospital Sul;Hospital Alpha;Centro;26;52,1;2026-05-05 23:38:00
+173;2026-05-05 23:40:00;2026-05-06 00:48:00;65;68,0;Concluida;Linha Comercial Norte;Centro;Distrito Comercial;95;8,27;2026-05-05 23:54:00
+176;2026-05-06 05:00:00;2026-05-06 06:07:00;51;67,0;Concluida;Linha Industrial 2;Polo Industrial;Centro;55;31,09;2026-05-06 05:45:00
+179;2026-05-06 06:45:00;2026-05-06 07:57:00;47;72,0;Concluida;Linha Parque Verde;Centro;Parque Verde;43;57,2;2026-05-06 07:02:00
+183;2026-05-06 09:05:00;2026-05-06 10:49:00;80;104,0;Concluida;Linha Shopping Norte;Centro;Shopping Alpha;36;49,77;2026-05-06 09:20:00
+186;2026-05-06 10:50:00;2026-05-06 12:02:00;63;72,0;Concluida;Linha Terminal Leste;Centro;Terminal Leste;64;24,43;2026-05-06 11:00:00
+189;2026-05-06 12:35:00;2026-05-06 14:05:00;92;90,0;Concluida;Linha Metropolitana 1;Centro;Cidade Beta;44;57,3;2026-05-06 13:19:00
+190;2026-05-06 13:10:00;2026-05-06 14:05:00;55;55,0;Concluida;Linha Metropolitana 2;Cidade Beta;Centro;23;48,76;2026-05-06 13:17:00
+197;2026-05-06 17:15:00;2026-05-06 18:48:00;94;93,0;Concluida;Linha Ecologica 1;Parque Verde;Centro;78;22,02;2026-05-06 17:25:00
+198;2026-05-06 17:50:00;2026-05-06 19:33:00;95;103,0;Concluida;Linha Ecologica 2;Centro;Parque Azul;85;13,74;2026-05-06 18:19:00
+200;2026-05-06 19:00:00;2026-05-06 20:35:00;75;95,0;Concluida;Linha Bairro Novo;Bairro Novo;Centro;70;34,8;2026-05-06 19:22:00
+203;2026-05-06 20:45:00;2026-05-06 21:55:00;46;70,0;Concluida;Linha Circular 1;Centro;Bairro Industrial;17;41,34;2026-05-06 21:19:00
+209;2026-05-07 00:15:00;2026-05-07 01:47:00;81;92,0;Concluida;Linha Universitaria 1;Centro;Universidade Alpha;94;10,18;2026-05-07 00:23:00
+210;2026-05-07 00:50:00;2026-05-07 02:38:00;88;108,0;Concluida;Linha Universitaria 2;Universidade Alpha;Centro;73;37,26;2026-05-07 01:16:00
+211;2026-05-07 05:00:00;2026-05-07 06:05:00;69;65,0;Concluida;Linha Hospital Norte;Centro;Hospital Alpha;49;64,28;2026-05-07 05:37:00
+214;2026-05-07 06:45:00;2026-05-07 08:12:00;66;87,0;Concluida;Linha Comercial Sul;Distrito Comercial;Centro;57;37,44;2026-05-07 07:23:00
+215;2026-05-07 07:20:00;2026-05-07 08:59:00;81;99,0;Concluida;Linha Industrial 1;Centro;Polo Industrial;68;34,21;2026-05-07 07:52:00
+221;2026-05-07 10:50:00;2026-05-07 12:27:00;76;97,0;Concluida;Linha Aeroporto 1;Centro;Aeroporto Alpha;19;60,71;2026-05-07 11:07:00
+223;2026-05-07 12:00:00;2026-05-07 13:26:00;73;86,0;Concluida;Linha Shopping Norte;Centro;Shopping Alpha;96;11,25;2026-05-07 12:29:00
+225;2026-05-07 13:10:00;2026-05-07 13:44:00;35;34,0;Concluida;Linha Terminal Oeste;Terminal Oeste;Centro;60;22,97;2026-05-07 13:55:00
+226;2026-05-07 13:45:00;2026-05-07 14:40:00;61;55,0;Concluida;Linha Terminal Leste;Centro;Terminal Leste;74;37,52;2026-05-07 13:59:00
+233;2026-05-07 17:50:00;2026-05-07 18:26:00;41;36,0;Concluida;Linha Escolar 1;Centro;Escola Alpha;7;60,82;2026-05-07 18:21:00
+236;2026-05-07 19:35:00;2026-05-07 20:33:00;63;58,0;Concluida;Linha Inovacao;Parque Tecnologico;Centro;67;30,93;2026-05-07 19:46:00
+237;2026-05-07 20:10:00;2026-05-07 21:44:00;74;94,0;Concluida;Linha Ecologica 1;Parque Verde;Centro;65;26,44;2026-05-07 20:45:00
+240;2026-05-07 21:55:00;2026-05-07 23:20:00;90;85,0;Concluida;Linha Bairro Novo;Bairro Novo;Centro;82;8,18;2026-05-07 22:16:00
+241;2026-05-07 22:30:00;2026-05-07 23:59:00;82;89,0;Concluida;Linha Centro Norte;Terminal Norte;Centro;17;41,88;2026-05-07 22:35:00
+242;2026-05-07 23:05:00;2026-05-08 00:51:00;92;106,0;Concluida;Linha Centro Sul;Centro;Terminal Sul;5;56,62;2026-05-07 23:43:00
+243;2026-05-07 23:40:00;2026-05-08 01:02:00;65;82,0;Concluida;Linha Circular 1;Centro;Bairro Industrial;39;41,45;2026-05-07 23:54:00
+244;2026-05-08 00:15:00;2026-05-08 01:16:00;41;61,0;Concluida;Linha Circular 2;Bairro Industrial;Centro;87;8,59;2026-05-08 00:48:00
+245;2026-05-08 00:50:00;2026-05-08 01:51:00;42;61,0;Concluida;Linha Alpha Norte;Alvorada;Norte;78;36,52;2026-05-08 01:35:00
+247;2026-05-08 05:35:00;2026-05-08 06:27:00;41;52,0;Concluida;Linha Beta Oeste;Oeste;Centro;69;24,02;2026-05-08 05:44:00
+248;2026-05-08 06:10:00;2026-05-08 07:13:00;55;63,0;Concluida;Linha Beta Leste;Leste;Centro;22;40,36;2026-05-08 06:45:00
+250;2026-05-08 07:20:00;2026-05-08 08:16:00;56;56,0;Concluida;Linha Universitaria 2;Universidade Alpha;Centro;12;53,68;2026-05-08 07:39:00
+253;2026-05-08 09:05:00;2026-05-08 10:31:00;80;86,0;Concluida;Linha Comercial Norte;Centro;Distrito Comercial;11;52,77;2026-05-08 09:48:00
+257;2026-05-08 11:25:00;2026-05-08 12:04:00;37;39,0;Concluida;Linha Residencial A;Residencial Alpha;Centro;67;29,68;2026-05-08 11:49:00
+259;2026-05-08 12:35:00;2026-05-08 14:23:00;90;108,0;Concluida;Linha Parque Verde;Centro;Parque Verde;62;23,33;2026-05-08 12:50:00
+260;2026-05-08 13:10:00;2026-05-08 14:35:00;60;85,0;Concluida;Linha Parque Azul;Parque Azul;Centro;73;37,05;2026-05-08 13:50:00
+262;2026-05-08 14:20:00;2026-05-08 15:14:00;45;54,0;Concluida;Linha Aeroporto 2;Aeroporto Alpha;Centro;29;57,77;2026-05-08 15:02:00
+263;2026-05-08 14:55:00;2026-05-08 15:50:00;46;55,0;Concluida;Linha Shopping Norte;Centro;Shopping Alpha;63;24,52;2026-05-08 15:22:00
+267;2026-05-08 17:15:00;2026-05-08 19:12:00;93;117,0;Concluida;Linha Circular Norte;Norte;Oeste;83;16,74;2026-05-08 17:43:00
+270;2026-05-08 19:00:00;2026-05-08 20:29:00;88;89,0;Concluida;Linha Metropolitana 2;Cidade Beta;Centro;70;36,41;2026-05-08 19:42:00
+272;2026-05-08 20:10:00;2026-05-08 21:24:00;80;74,0;Concluida;Linha Expresso Sul;Terminal Sul;Terminal Norte;34;60,62;2026-05-08 20:33:00
+274;2026-05-08 21:20:00;2026-05-08 22:10:00;56;50,0;Concluida;Linha Escolar 2;Escola Alpha;Centro;69;21,91;2026-05-08 21:44:00
+275;2026-05-08 21:55:00;2026-05-08 23:21:00;65;86,0;Concluida;Linha Tecnologia;Centro;Parque Tecnologico;13;54,35;2026-05-08 22:01:00
+276;2026-05-08 22:30:00;2026-05-08 23:49:00;84;79,0;Concluida;Linha Inovacao;Parque Tecnologico;Centro;89;13,03;2026-05-08 22:48:00
+277;2026-05-08 23:05:00;2026-05-09 00:35:00;77;90,0;Concluida;Linha Ecologica 1;Parque Verde;Centro;64;20,69;2026-05-08 23:49:00
+281;2026-05-09 05:00:00;2026-05-09 06:39:00;82;99,0;Concluida;Linha Centro Norte;Terminal Norte;Centro;12;38,11;2026-05-09 05:14:00
+284;2026-05-09 06:45:00;2026-05-09 07:57:00;58;72,0;Concluida;Linha Circular 2;Bairro Industrial;Centro;15;57,89;2026-05-09 07:16:00
+285;2026-05-09 07:20:00;2026-05-09 08:36:00;58;76,0;Concluida;Linha Alpha Norte;Alvorada;Norte;93;21,34;2026-05-09 07:50:00
+286;2026-05-09 07:55:00;2026-05-09 08:51:00;38;56,0;Concluida;Linha Alpha Sul;Sul;Centro;90;15,41;2026-05-09 08:33:00
+288;2026-05-09 09:05:00;2026-05-09 10:29:00;92;84,0;Concluida;Linha Beta Leste;Leste;Centro;81;14,0;2026-05-09 09:41:00
+289;2026-05-09 09:40:00;2026-05-09 10:15:00;39;35,0;Concluida;Linha Universitaria 1;Centro;Universidade Alpha;98;11,22;2026-05-09 10:25:00
+290;2026-05-09 10:15:00;2026-05-09 11:25:00;54;70,0;Concluida;Linha Universitaria 2;Universidade Alpha;Centro;41;55,62;2026-05-09 10:35:00
+291;2026-05-09 10:50:00;2026-05-09 12:05:00;67;75,0;Concluida;Linha Hospital Norte;Centro;Hospital Alpha;55;31,47;2026-05-09 11:20:00
+292;2026-05-09 11:25:00;2026-05-09 12:19:00;54;54,0;Concluida;Linha Hospital Sul;Hospital Alpha;Centro;95;20,68;2026-05-09 11:54:00
+295;2026-05-09 13:10:00;2026-05-09 14:00:00;43;50,0;Concluida;Linha Industrial 1;Centro;Polo Industrial;76;23,94;2026-05-09 13:47:00
+296;2026-05-09 13:45:00;2026-05-09 14:41:00;49;56,0;Concluida;Linha Industrial 2;Polo Industrial;Centro;10;46,26;2026-05-09 14:08:00
+297;2026-05-09 14:20:00;2026-05-09 15:36:00;65;76,0;Concluida;Linha Residencial A;Residencial Alpha;Centro;60;29,5;2026-05-09 15:05:00
+300;2026-05-09 16:05:00;2026-05-09 17:14:00;62;69,0;Concluida;Linha Parque Azul;Parque Azul;Centro;46;57,47;2026-05-09 16:18:00
+301;2026-05-09 16:40:00;2026-05-09 18:03:00;64;83,0;Concluida;Linha Aeroporto 1;Centro;Aeroporto Alpha;77;21,1;2026-05-09 17:21:00
+302;2026-05-09 17:15:00;2026-05-09 18:39:00;91;84,0;Concluida;Linha Aeroporto 2;Aeroporto Alpha;Centro;26;57,35;2026-05-09 17:40:00
+303;2026-05-09 17:50:00;2026-05-09 19:50:00;95;120,0;Concluida;Linha Shopping Norte;Centro;Shopping Alpha;21;61,49;2026-05-09 18:23:00
+304;2026-05-09 18:25:00;2026-05-09 19:41:00;73;76,0;Concluida;Linha Shopping Sul;Shopping Alpha;Centro;62;26,3;2026-05-09 18:53:00
+307;2026-05-09 20:10:00;2026-05-09 21:31:00;59;81,0;Concluida;Linha Circular Norte;Norte;Oeste;74;23,34;2026-05-09 20:16:00
+311;2026-05-09 22:30:00;2026-05-09 23:51:00;70;81,0;Concluida;Linha Expresso Norte;Terminal Norte;Terminal Sul;51;29,98;2026-05-09 22:50:00
+314;2026-05-10 00:15:00;2026-05-10 01:53:00;88;98,0;Concluida;Linha Escolar 2;Escola Alpha;Centro;44;41,0;2026-05-10 00:47:00
+318;2026-05-10 06:10:00;2026-05-10 08:01:00;87;111,0;Concluida;Linha Ecologica 2;Centro;Parque Azul;85;8,86;2026-05-10 06:45:00
+322;2026-05-10 08:30:00;2026-05-10 09:52:00;59;82,0;Concluida;Linha Centro Sul;Centro;Terminal Sul;20;35,86;2026-05-10 09:02:00
+329;2026-05-10 12:35:00;2026-05-10 13:39:00;58;64,0;Concluida;Linha Universitaria 1;Centro;Universidade Alpha;44;53,44;2026-05-10 13:15:00
+337;2026-05-10 17:15:00;2026-05-10 18:31:00;81;76,0;Concluida;Linha Residencial A;Residencial Alpha;Centro;31;56,44;2026-05-10 17:56:00
+340;2026-05-10 19:00:00;2026-05-10 20:26:00;93;86,0;Concluida;Linha Parque Azul;Parque Azul;Centro;57;30,74;2026-05-10 19:27:00
+343;2026-05-10 20:45:00;2026-05-10 22:08:00;62;83,0;Concluida;Linha Shopping Norte;Centro;Shopping Alpha;35;63,48;2026-05-10 20:57:00
+347;2026-05-10 23:05:00;2026-05-11 00:10:00;43;65,0;Concluida;Linha Circular Norte;Norte;Oeste;10;60,85;2026-05-10 23:11:00
+348;2026-05-10 23:40:00;2026-05-11 00:56:00;84;76,0;Concluida;Linha Circular Sul;Sul;Leste;92;15,65;2026-05-11 00:20:00
+349;2026-05-11 00:15:00;2026-05-11 01:18:00;38;63,0;Concluida;Linha Metropolitana 1;Centro;Cidade Beta;45;52,26;2026-05-11 00:29:00
+351;2026-05-11 05:00:00;2026-05-11 06:36:00;82;96,0;Concluida;Linha Expresso Norte;Terminal Norte;Terminal Sul;20;47,82;2026-05-11 05:17:00
+352;2026-05-11 05:35:00;2026-05-11 06:36:00;47;61,0;Concluida;Linha Expresso Sul;Terminal Sul;Terminal Norte;81;15,84;2026-05-11 05:48:00
+353;2026-05-11 06:10:00;2026-05-11 07:35:00;78;85,0;Concluida;Linha Escolar 1;Centro;Escola Alpha;10;46,31;2026-05-11 06:47:00
+354;2026-05-11 06:45:00;2026-05-11 08:00:00;53;75,0;Concluida;Linha Escolar 2;Escola Alpha;Centro;33;55,6;2026-05-11 07:09:00
+355;2026-05-11 07:20:00;2026-05-11 08:47:00;88;87,0;Concluida;Linha Tecnologia;Centro;Parque Tecnologico;95;16,35;2026-05-11 07:26:00
+356;2026-05-11 07:55:00;2026-05-11 09:31:00;90;96,0;Concluida;Linha Inovacao;Parque Tecnologico;Centro;17;36,98;2026-05-11 08:24:00
+357;2026-05-11 08:30:00;2026-05-11 10:07:00;93;97,0;Concluida;Linha Ecologica 1;Parque Verde;Centro;39;55,56;2026-05-11 08:36:00
+358;2026-05-11 09:05:00;2026-05-11 10:44:00;87;99,0;Concluida;Linha Ecologica 2;Centro;Parque Azul;18;56,66;2026-05-11 09:35:00
+363;2026-05-11 12:00:00;2026-05-11 13:25:00;65;85,0;Concluida;Linha Circular 1;Centro;Bairro Industrial;98;18,05;2026-05-11 12:42:00
+367;2026-05-11 14:20:00;2026-05-11 15:01:00;39;41,0;Concluida;Linha Beta Oeste;Oeste;Centro;76;25,62;2026-05-11 14:38:00
+371;2026-05-11 16:40:00;2026-05-11 18:30:00;85;110,0;Concluida;Linha Hospital Norte;Centro;Hospital Alpha;49;36,86;2026-05-11 16:48:00
+375;2026-05-11 19:00:00;2026-05-11 19:49:00;44;49,0;Concluida;Linha Industrial 1;Centro;Polo Industrial;72;27,2;2026-05-11 19:36:00
+377;2026-05-11 20:10:00;2026-05-11 21:11:00;61;61,0;Concluida;Linha Residencial A;Residencial Alpha;Centro;89;8,67;2026-05-11 20:44:00
+378;2026-05-11 20:45:00;2026-05-11 22:31:00;95;106,0;Concluida;Linha Residencial B;Centro;Residencial Beta;94;21,54;2026-05-11 21:02:00
+380;2026-05-11 21:55:00;2026-05-11 23:21:00;80;86,0;Concluida;Linha Parque Azul;Parque Azul;Centro;64;31,32;2026-05-11 22:03:00
+381;2026-05-11 22:30:00;2026-05-11 23:46:00;71;76,0;Concluida;Linha Aeroporto 1;Centro;Aeroporto Alpha;75;35,42;2026-05-11 23:05:00
+384;2026-05-12 00:15:00;2026-05-12 01:29:00;61;74,0;Concluida;Linha Shopping Sul;Shopping Alpha;Centro;20;43,52;2026-05-12 00:22:00
+385;2026-05-12 00:50:00;2026-05-12 02:32:00;86;102,0;Concluida;Linha Terminal Oeste;Terminal Oeste;Centro;92;19,59;2026-05-12 01:04:00
+388;2026-05-12 06:10:00;2026-05-12 07:24:00;55;74,0;Concluida;Linha Circular Sul;Sul;Leste;67;23,08;2026-05-12 06:24:00
+389;2026-05-12 06:45:00;2026-05-12 07:58:00;63;73,0;Concluida;Linha Metropolitana 1;Centro;Cidade Beta;65;36,85;2026-05-12 07:13:00
+390;2026-05-12 07:20:00;2026-05-12 08:35:00;68;75,0;Concluida;Linha Metropolitana 2;Cidade Beta;Centro;78;20,3;2026-05-12 07:46:00
+391;2026-05-12 07:55:00;2026-05-12 09:01:00;50;66,0;Concluida;Linha Expresso Norte;Terminal Norte;Terminal Sul;50;35,67;2026-05-12 08:11:00
+394;2026-05-12 09:40:00;2026-05-12 11:08:00;95;88,0;Concluida;Linha Escolar 2;Escola Alpha;Centro;12;64,43;2026-05-12 10:10:00
+395;2026-05-12 10:15:00;2026-05-12 11:22:00;53;67,0;Concluida;Linha Tecnologia;Centro;Parque Tecnologico;61;28,45;2026-05-12 10:21:00
+398;2026-05-12 12:00:00;2026-05-12 13:28:00;67;88,0;Concluida;Linha Ecologica 2;Centro;Parque Azul;35;50,69;2026-05-12 12:33:00
+399;2026-05-12 12:35:00;2026-05-12 13:49:00;73;74,0;Concluida;Linha Bairro Alto;Bairro Alto;Centro;94;18,4;2026-05-12 13:08:00
+400;2026-05-12 13:10:00;2026-05-12 14:02:00;43;52,0;Concluida;Linha Bairro Novo;Bairro Novo;Centro;55;20,81;2026-05-12 13:25:00
+401;2026-05-12 13:45:00;2026-05-12 14:37:00;37;52,0;Concluida;Linha Centro Norte;Terminal Norte;Centro;22;50,66;2026-05-12 14:01:00
+406;2026-05-12 16:40:00;2026-05-12 17:35:00;45;55,0;Concluida;Linha Alpha Sul;Sul;Centro;46;45,08;2026-05-12 16:47:00
+407;2026-05-12 17:15:00;2026-05-12 17:58:00;35;43,0;Concluida;Linha Beta Oeste;Oeste;Centro;13;53,51;2026-05-12 17:22:00
+409;2026-05-12 18:25:00;2026-05-12 19:20:00;54;55,0;Concluida;Linha Universitaria 1;Centro;Universidade Alpha;93;14,7;2026-05-12 18:55:00
+414;2026-05-12 21:20:00;2026-05-12 22:16:00;58;56,0;Concluida;Linha Comercial Sul;Distrito Comercial;Centro;54;36,87;2026-05-12 21:58:00
+417;2026-05-12 23:05:00;2026-05-13 00:07:00;42;62,0;Concluida;Linha Residencial A;Residencial Alpha;Centro;68;26,77;2026-05-12 23:47:00
+419;2026-05-13 00:15:00;2026-05-13 01:39:00;86;84,0;Concluida;Linha Parque Verde;Centro;Parque Verde;55;27,71;2026-05-13 00:48:00
+423;2026-05-13 06:10:00;2026-05-13 07:26:00;62;76,0;Concluida;Linha Shopping Norte;Centro;Shopping Alpha;59;23,55;2026-05-13 06:47:00
+425;2026-05-13 07:20:00;2026-05-13 08:48:00;70;88,0;Concluida;Linha Terminal Oeste;Terminal Oeste;Centro;89;9,16;2026-05-13 07:37:00
+426;2026-05-13 07:55:00;2026-05-13 08:38:00;50;43,0;Concluida;Linha Terminal Leste;Centro;Terminal Leste;92;8,77;2026-05-13 08:04:00
+427;2026-05-13 08:30:00;2026-05-13 09:57:00;64;87,0;Concluida;Linha Circular Norte;Norte;Oeste;30;54,4;2026-05-13 09:12:00
+428;2026-05-13 09:05:00;2026-05-13 10:16:00;53;71,0;Concluida;Linha Circular Sul;Sul;Leste;50;21,38;2026-05-13 09:11:00
+429;2026-05-13 09:40:00;2026-05-13 11:14:00;69;94,0;Concluida;Linha Metropolitana 1;Centro;Cidade Beta;26;48,99;2026-05-13 10:21:00
+430;2026-05-13 10:15:00;2026-05-13 11:37:00;62;82,0;Concluida;Linha Metropolitana 2;Cidade Beta;Centro;85;18,42;2026-05-13 10:31:00
+431;2026-05-13 10:50:00;2026-05-13 12:08:00;57;78,0;Concluida;Linha Expresso Norte;Terminal Norte;Terminal Sul;75;24,92;2026-05-13 11:19:00
+433;2026-05-13 12:00:00;2026-05-13 13:25:00;73;85,0;Concluida;Linha Escolar 1;Centro;Escola Alpha;26;64,27;2026-05-13 12:19:00
+434;2026-05-13 12:35:00;2026-05-13 13:36:00;62;61,0;Concluida;Linha Escolar 2;Escola Alpha;Centro;50;34,9;2026-05-13 13:13:00
+436;2026-05-13 13:45:00;2026-05-13 14:20:00;38;35,0;Concluida;Linha Inovacao;Parque Tecnologico;Centro;75;24,97;2026-05-13 13:58:00
+437;2026-05-13 14:20:00;2026-05-13 15:51:00;80;91,0;Concluida;Linha Ecologica 1;Parque Verde;Centro;21;49,56;2026-05-13 15:02:00
+439;2026-05-13 15:30:00;2026-05-13 16:28:00;45;58,0;Concluida;Linha Bairro Alto;Bairro Alto;Centro;19;42,01;2026-05-13 15:42:00
+441;2026-05-13 16:40:00;2026-05-13 18:28:00;86;108,0;Concluida;Linha Centro Norte;Terminal Norte;Centro;93;12,15;2026-05-13 17:20:00
+442;2026-05-13 17:15:00;2026-05-13 18:38:00;63;83,0;Concluida;Linha Centro Sul;Centro;Terminal Sul;29;53,65;2026-05-13 17:38:00
+443;2026-05-13 17:50:00;2026-05-13 18:56:00;55;66,0;Concluida;Linha Circular 1;Centro;Bairro Industrial;20;61,03;2026-05-13 17:56:00
+445;2026-05-13 19:00:00;2026-05-13 20:15:00;71;75,0;Concluida;Linha Alpha Norte;Alvorada;Norte;55;25,07;2026-05-13 19:45:00
+446;2026-05-13 19:35:00;2026-05-13 20:45:00;55;70,0;Concluida;Linha Alpha Sul;Sul;Centro;42;58,36;2026-05-13 19:45:00
+449;2026-05-13 21:20:00;2026-05-13 22:03:00;40;43,0;Concluida;Linha Universitaria 1;Centro;Universidade Alpha;90;20,9;2026-05-13 22:01:00
+452;2026-05-13 23:05:00;2026-05-13 23:58:00;45;53,0;Concluida;Linha Hospital Sul;Hospital Alpha;Centro;15;42,3;2026-05-13 23:32:00
+455;2026-05-14 00:50:00;2026-05-14 02:19:00;85;89,0;Concluida;Linha Industrial 1;Centro;Polo Industrial;41;54,19;2026-05-14 01:34:00
+457;2026-05-14 05:35:00;2026-05-14 06:30:00;39;55,0;Concluida;Linha Residencial A;Residencial Alpha;Centro;6;50,68;2026-05-14 05:48:00
+459;2026-05-14 06:45:00;2026-05-14 07:28:00;45;43,0;Concluida;Linha Parque Verde;Centro;Parque Verde;64;31,03;2026-05-14 07:27:00
+460;2026-05-14 07:20:00;2026-05-14 07:54:00;42;34,0;Concluida;Linha Parque Azul;Parque Azul;Centro;80;10,83;2026-05-14 07:26:00
+463;2026-05-14 09:05:00;2026-05-14 10:18:00;71;73,0;Concluida;Linha Shopping Norte;Centro;Shopping Alpha;35;54,99;2026-05-14 09:29:00
+464;2026-05-14 09:40:00;2026-05-14 10:43:00;70;63,0;Concluida;Linha Shopping Sul;Shopping Alpha;Centro;76;35,71;2026-05-14 10:24:00
+465;2026-05-14 10:15:00;2026-05-14 11:04:00;47;49,0;Concluida;Linha Terminal Oeste;Terminal Oeste;Centro;17;37,68;2026-05-14 10:26:00
+470;2026-05-14 13:10:00;2026-05-14 14:03:00;55;53,0;Concluida;Linha Metropolitana 2;Cidade Beta;Centro;41;59,05;2026-05-14 13:33:00
+471;2026-05-14 13:45:00;2026-05-14 15:12:00;89;87,0;Concluida;Linha Expresso Norte;Terminal Norte;Terminal Sul;14;53,74;2026-05-14 14:24:00
+472;2026-05-14 14:20:00;2026-05-14 15:51:00;94;91,0;Concluida;Linha Expresso Sul;Terminal Sul;Terminal Norte;59;30,82;2026-05-14 14:28:00
+474;2026-05-14 15:30:00;2026-05-14 16:59:00;81;89,0;Concluida;Linha Escolar 2;Escola Alpha;Centro;32;37,4;2026-05-14 16:13:00
+476;2026-05-14 16:40:00;2026-05-14 18:14:00;78;94,0;Concluida;Linha Inovacao;Parque Tecnologico;Centro;96;19,08;2026-05-14 16:54:00
+477;2026-05-14 17:15:00;2026-05-14 18:06:00;58;51,0;Concluida;Linha Ecologica 1;Parque Verde;Centro;87;15,44;2026-05-14 17:45:00
+479;2026-05-14 18:25:00;2026-05-14 20:14:00;93;109,0;Concluida;Linha Bairro Alto;Bairro Alto;Centro;62;22,77;2026-05-14 18:31:00
+480;2026-05-14 19:00:00;2026-05-14 20:00:00;36;60,0;Concluida;Linha Bairro Novo;Bairro Novo;Centro;20;52,61;2026-05-14 19:19:00
+482;2026-05-14 20:10:00;2026-05-14 21:03:00;52;53,0;Concluida;Linha Centro Sul;Centro;Terminal Sul;30;59,13;2026-05-14 20:18:00
+484;2026-05-14 21:20:00;2026-05-14 22:15:00;60;55,0;Concluida;Linha Circular 2;Bairro Industrial;Centro;48;49,99;2026-05-14 21:35:00
+485;2026-05-14 21:55:00;2026-05-14 23:33:00;75;98,0;Concluida;Linha Alpha Norte;Alvorada;Norte;41;40,95;2026-05-14 22:11:00
+486;2026-05-14 22:30:00;2026-05-14 23:44:00;68;74,0;Concluida;Linha Alpha Sul;Sul;Centro;32;49,21;2026-05-14 22:47:00
+487;2026-05-14 23:05:00;2026-05-15 00:31:00;76;86,0;Concluida;Linha Beta Oeste;Oeste;Centro;61;34,33;2026-05-14 23:27:00
+488;2026-05-14 23:40:00;2026-05-15 00:58:00;56;78,0;Concluida;Linha Beta Leste;Leste;Centro;31;56,72;2026-05-14 23:52:00
+489;2026-05-15 00:15:00;2026-05-15 01:30:00;54;75,0;Concluida;Linha Universitaria 1;Centro;Universidade Alpha;64;32,76;2026-05-15 00:23:00
+493;2026-05-15 06:10:00;2026-05-15 07:13:00;50;63,0;Concluida;Linha Comercial Norte;Centro;Distrito Comercial;80;11,76;2026-05-15 06:15:00
+497;2026-05-15 08:30:00;2026-05-15 09:58:00;87;88,0;Concluida;Linha Residencial A;Residencial Alpha;Centro;9;63,49;2026-05-15 08:54:00
+499;2026-05-15 09:40:00;2026-05-15 10:33:00;60;53,0;Concluida;Linha Parque Verde;Centro;Parque Verde;51;23,78;2026-05-15 10:10:00
+500;2026-05-15 10:15:00;2026-05-15 11:32:00;72;77,0;Concluida;Linha Parque Azul;Parque Azul;Centro;7;36,2;2026-05-15 10:40:00
+503;2026-05-15 12:00:00;2026-05-15 13:45:00;81;105,0;Concluida;Linha Shopping Norte;Centro;Shopping Alpha;90;18,16;2026-05-15 12:20:00
+504;2026-05-15 12:35:00;2026-05-15 13:52:00;84;77,0;Concluida;Linha Shopping Sul;Shopping Alpha;Centro;56;33,01;2026-05-15 13:09:00
+510;2026-05-15 16:05:00;2026-05-15 17:46:00;93;101,0;Concluida;Linha Metropolitana 2;Cidade Beta;Centro;70;21,1;2026-05-15 16:34:00
+512;2026-05-15 17:15:00;2026-05-15 18:27:00;69;72,0;Concluida;Linha Expresso Sul;Terminal Sul;Terminal Norte;45;59,88;2026-05-15 17:26:00
+513;2026-05-15 17:50:00;2026-05-15 18:53:00;65;63,0;Concluida;Linha Escolar 1;Centro;Escola Alpha;42;52,6;2026-05-15 18:32:00
+514;2026-05-15 18:25:00;2026-05-15 19:09:00;41;44,0;Concluida;Linha Escolar 2;Escola Alpha;Centro;36;63,97;2026-05-15 18:53:00
+518;2026-05-15 20:45:00;2026-05-15 21:23:00;40;38,0;Concluida;Linha Ecologica 2;Centro;Parque Azul;56;22,37;2026-05-15 21:26:00
+519;2026-05-15 21:20:00;2026-05-15 22:49:00;77;89,0;Concluida;Linha Bairro Alto;Bairro Alto;Centro;96;15,96;2026-05-15 22:03:00
+520;2026-05-15 21:55:00;2026-05-15 22:58:00;62;63,0;Concluida;Linha Bairro Novo;Bairro Novo;Centro;62;27,39;2026-05-15 22:28:00
+521;2026-05-15 22:30:00;2026-05-15 23:08:00;36;38,0;Concluida;Linha Centro Norte;Terminal Norte;Centro;19;60,76;2026-05-15 23:15:00
+522;2026-05-15 23:05:00;2026-05-15 23:44:00;37;39,0;Concluida;Linha Centro Sul;Centro;Terminal Sul;87;21,64;2026-05-15 23:36:00
+523;2026-05-15 23:40:00;2026-05-16 00:54:00;80;74,0;Concluida;Linha Circular 1;Centro;Bairro Industrial;59;37,32;2026-05-15 23:51:00
+524;2026-05-16 00:15:00;2026-05-16 01:42:00;72;87,0;Concluida;Linha Circular 2;Bairro Industrial;Centro;88;11,82;2026-05-16 00:25:00
+525;2026-05-16 00:50:00;2026-05-16 01:44:00;47;54,0;Concluida;Linha Alpha Norte;Alvorada;Norte;5;42,43;2026-05-16 01:34:00
+526;2026-05-16 05:00:00;2026-05-16 06:21:00;89;81,0;Concluida;Linha Alpha Sul;Sul;Centro;95;13,75;2026-05-16 05:19:00
+527;2026-05-16 05:35:00;2026-05-16 06:52:00;71;77,0;Concluida;Linha Beta Oeste;Oeste;Centro;87;19,11;2026-05-16 06:04:00
+528;2026-05-16 06:10:00;2026-05-16 07:24:00;75;74,0;Concluida;Linha Beta Leste;Leste;Centro;72;26,1;2026-05-16 06:31:00
+529;2026-05-16 06:45:00;2026-05-16 08:15:00;87;90,0;Concluida;Linha Universitaria 1;Centro;Universidade Alpha;14;60,41;2026-05-16 07:29:00
+530;2026-05-16 07:20:00;2026-05-16 08:28:00;53;68,0;Concluida;Linha Universitaria 2;Universidade Alpha;Centro;46;38,43;2026-05-16 07:51:00
+531;2026-05-16 07:55:00;2026-05-16 09:20:00;74;85,0;Concluida;Linha Hospital Norte;Centro;Hospital Alpha;52;32,21;2026-05-16 08:14:00
+532;2026-05-16 08:30:00;2026-05-16 10:23:00;88;113,0;Concluida;Linha Hospital Sul;Hospital Alpha;Centro;51;29,81;2026-05-16 09:08:00
+533;2026-05-16 09:05:00;2026-05-16 10:49:00;79;104,0;Concluida;Linha Comercial Norte;Centro;Distrito Comercial;10;64,09;2026-05-16 09:40:00
+534;2026-05-16 09:40:00;2026-05-16 11:11:00;83;91,0;Concluida;Linha Comercial Sul;Distrito Comercial;Centro;47;39,67;2026-05-16 10:20:00
+536;2026-05-16 10:50:00;2026-05-16 12:18:00;90;88,0;Concluida;Linha Industrial 2;Polo Industrial;Centro;61;31,77;2026-05-16 11:04:00
+537;2026-05-16 11:25:00;2026-05-16 12:14:00;41;49,0;Concluida;Linha Residencial A;Residencial Alpha;Centro;86;14,28;2026-05-16 11:40:00
+539;2026-05-16 12:35:00;2026-05-16 14:19:00;92;104,0;Concluida;Linha Parque Verde;Centro;Parque Verde;64;27,13;2026-05-16 13:10:00
+540;2026-05-16 13:10:00;2026-05-16 13:49:00;43;39,0;Concluida;Linha Parque Azul;Parque Azul;Centro;20;41,63;2026-05-16 13:43:00
+541;2026-05-16 13:45:00;2026-05-16 15:21:00;84;96,0;Concluida;Linha Aeroporto 1;Centro;Aeroporto Alpha;14;47,3;2026-05-16 13:59:00
+543;2026-05-16 14:55:00;2026-05-16 16:02:00;69;67,0;Concluida;Linha Shopping Norte;Centro;Shopping Alpha;81;19,81;2026-05-16 15:25:00
+544;2026-05-16 15:30:00;2026-05-16 17:03:00;94;93,0;Concluida;Linha Shopping Sul;Shopping Alpha;Centro;88;18,65;2026-05-16 16:03:00
+545;2026-05-16 16:05:00;2026-05-16 16:53:00;54;48,0;Concluida;Linha Terminal Oeste;Terminal Oeste;Centro;12;49,18;2026-05-16 16:17:00
+548;2026-05-16 17:50:00;2026-05-16 19:05:00;55;75,0;Concluida;Linha Circular Sul;Sul;Leste;9;45,75;2026-05-16 17:56:00
+551;2026-05-16 19:35:00;2026-05-16 20:44:00;66;69,0;Concluida;Linha Expresso Norte;Terminal Norte;Terminal Sul;49;36,29;2026-05-16 19:55:00
+552;2026-05-16 20:10:00;2026-05-16 21:38:00;79;88,0;Concluida;Linha Expresso Sul;Terminal Sul;Terminal Norte;43;41,55;2026-05-16 20:52:00
+555;2026-05-16 21:55:00;2026-05-16 23:25:00;76;90,0;Concluida;Linha Tecnologia;Centro;Parque Tecnologico;23;51,17;2026-05-16 22:35:00
+562;2026-05-17 05:35:00;2026-05-17 06:29:00;52;54,0;Concluida;Linha Centro Sul;Centro;Terminal Sul;37;48,46;2026-05-17 06:03:00
+564;2026-05-17 06:45:00;2026-05-17 07:56:00;59;71,0;Concluida;Linha Circular 2;Bairro Industrial;Centro;97;10,0;2026-05-17 06:59:00
+567;2026-05-17 08:30:00;2026-05-17 09:16:00;36;46,0;Concluida;Linha Beta Oeste;Oeste;Centro;24;44,74;2026-05-17 09:06:00
+570;2026-05-17 10:15:00;2026-05-17 11:27:00;72;72,0;Concluida;Linha Universitaria 2;Universidade Alpha;Centro;46;58,15;2026-05-17 10:26:00
+571;2026-05-17 10:50:00;2026-05-17 12:13:00;65;83,0;Concluida;Linha Hospital Norte;Centro;Hospital Alpha;83;10,26;2026-05-17 11:00:00
+573;2026-05-17 12:00:00;2026-05-17 13:43:00;92;103,0;Concluida;Linha Comercial Norte;Centro;Distrito Comercial;91;12,62;2026-05-17 12:42:00
+574;2026-05-17 12:35:00;2026-05-17 13:21:00;39;46,0;Concluida;Linha Comercial Sul;Distrito Comercial;Centro;68;28,32;2026-05-17 12:47:00
+575;2026-05-17 13:10:00;2026-05-17 14:32:00;65;82,0;Concluida;Linha Industrial 1;Centro;Polo Industrial;26;52,62;2026-05-17 13:36:00
+577;2026-05-17 14:20:00;2026-05-17 15:48:00;67;88,0;Concluida;Linha Residencial A;Residencial Alpha;Centro;18;52,86;2026-05-17 14:37:00
+581;2026-05-17 16:40:00;2026-05-17 17:34:00;38;54,0;Concluida;Linha Aeroporto 1;Centro;Aeroporto Alpha;33;51,18;2026-05-17 17:09:00
+582;2026-05-17 17:15:00;2026-05-17 18:43:00;95;88,0;Concluida;Linha Aeroporto 2;Aeroporto Alpha;Centro;74;26,68;2026-05-17 17:24:00
+583;2026-05-17 17:50:00;2026-05-17 19:11:00;88;81,0;Concluida;Linha Shopping Norte;Centro;Shopping Alpha;19;48,55;2026-05-17 18:33:00
+588;2026-05-17 20:45:00;2026-05-17 21:54:00;66;69,0;Concluida;Linha Circular Sul;Sul;Leste;31;36,01;2026-05-17 21:07:00
+592;2026-05-17 23:05:00;2026-05-18 00:37:00;71;92,0;Concluida;Linha Expresso Sul;Terminal Sul;Terminal Norte;82;16,72;2026-05-17 23:50:00
+594;2026-05-18 00:15:00;2026-05-18 01:26:00;62;71,0;Concluida;Linha Escolar 2;Escola Alpha;Centro;93;10,36;2026-05-18 00:40:00
+595;2026-05-18 00:50:00;2026-05-18 02:06:00;51;76,0;Concluida;Linha Tecnologia;Centro;Parque Tecnologico;71;25,43;2026-05-18 01:27:00
+600;2026-05-18 07:20:00;2026-05-18 08:48:00;81;88,0;Concluida;Linha Bairro Novo;Bairro Novo;Centro;96;14,94;2026-05-18 07:49:00
+603;2026-05-18 09:05:00;2026-05-18 10:24:00;76;79,0;Concluida;Linha Circular 1;Centro;Bairro Industrial;16;50,74;2026-05-18 09:38:00
+605;2026-05-18 10:15:00;2026-05-18 11:33:00;54;78,0;Concluida;Linha Alpha Norte;Alvorada;Norte;31;41,56;2026-05-18 10:29:00
+608;2026-05-18 12:00:00;2026-05-18 12:42:00;38;42,0;Concluida;Linha Beta Leste;Leste;Centro;71;31,97;2026-05-18 12:12:00
+609;2026-05-18 12:35:00;2026-05-18 13:55:00;84;80,0;Concluida;Linha Universitaria 1;Centro;Universidade Alpha;21;45,54;2026-05-18 13:00:00
+611;2026-05-18 13:45:00;2026-05-18 15:22:00;82;97,0;Concluida;Linha Hospital Norte;Centro;Hospital Alpha;71;23,36;2026-05-18 14:21:00
+614;2026-05-18 15:30:00;2026-05-18 16:52:00;75;82,0;Concluida;Linha Comercial Sul;Distrito Comercial;Centro;56;24,31;2026-05-18 16:14:00
+615;2026-05-18 16:05:00;2026-05-18 17:21:00;82;76,0;Concluida;Linha Industrial 1;Centro;Polo Industrial;52;33,27;2026-05-18 16:48:00
+616;2026-05-18 16:40:00;2026-05-18 17:28:00;42;48,0;Concluida;Linha Industrial 2;Polo Industrial;Centro;50;35,35;2026-05-18 17:04:00
+618;2026-05-18 17:50:00;2026-05-18 19:27:00;84;97,0;Concluida;Linha Residencial B;Centro;Residencial Beta;77;30,14;2026-05-18 18:25:00
+619;2026-05-18 18:25:00;2026-05-18 19:48:00;91;83,0;Concluida;Linha Parque Verde;Centro;Parque Verde;21;48,14;2026-05-18 19:10:00
+620;2026-05-18 19:00:00;2026-05-18 20:23:00;70;83,0;Concluida;Linha Parque Azul;Parque Azul;Centro;20;61,1;2026-05-18 19:30:00
+622;2026-05-18 20:10:00;2026-05-18 22:03:00;95;113,0;Concluida;Linha Aeroporto 2;Aeroporto Alpha;Centro;70;23,68;2026-05-18 20:23:00
+623;2026-05-18 20:45:00;2026-05-18 21:41:00;53;56,0;Concluida;Linha Shopping Norte;Centro;Shopping Alpha;42;40,24;2026-05-18 21:29:00
+625;2026-05-18 21:55:00;2026-05-18 23:32:00;86;97,0;Concluida;Linha Terminal Oeste;Terminal Oeste;Centro;14;42,33;2026-05-18 22:37:00
+626;2026-05-18 22:30:00;2026-05-18 23:45:00;82;75,0;Concluida;Linha Terminal Leste;Centro;Terminal Leste;71;21,22;2026-05-18 22:42:00
+627;2026-05-18 23:05:00;2026-05-19 00:24:00;75;79,0;Concluida;Linha Circular Norte;Norte;Oeste;35;47,18;2026-05-18 23:36:00
+629;2026-05-19 00:15:00;2026-05-19 01:18:00;43;63,0;Concluida;Linha Metropolitana 1;Centro;Cidade Beta;76;32,96;2026-05-19 00:43:00
+631;2026-05-19 05:00:00;2026-05-19 06:10:00;66;70,0;Concluida;Linha Expresso Norte;Terminal Norte;Terminal Sul;30;47,74;2026-05-19 05:31:00
+634;2026-05-19 06:45:00;2026-05-19 07:48:00;64;63,0;Concluida;Linha Escolar 2;Escola Alpha;Centro;51;31,22;2026-05-19 07:06:00
+644;2026-05-19 12:35:00;2026-05-19 13:51:00;84;76,0;Concluida;Linha Circular 2;Bairro Industrial;Centro;43;59,49;2026-05-19 12:57:00
+645;2026-05-19 13:10:00;2026-05-19 14:10:00;57;60,0;Concluida;Linha Alpha Norte;Alvorada;Norte;17;55,11;2026-05-19 13:44:00
+646;2026-05-19 13:45:00;2026-05-19 15:14:00;82;89,0;Concluida;Linha Alpha Sul;Sul;Centro;89;14,89;2026-05-19 14:25:00
+649;2026-05-19 15:30:00;2026-05-19 16:45:00;52;75,0;Concluida;Linha Universitaria 1;Centro;Universidade Alpha;55;33,13;2026-05-19 16:14:00
+650;2026-05-19 16:05:00;2026-05-19 17:14:00;58;69,0;Concluida;Linha Universitaria 2;Universidade Alpha;Centro;51;24,15;2026-05-19 16:46:00
+652;2026-05-19 17:15:00;2026-05-19 18:13:00;60;58,0;Concluida;Linha Hospital Sul;Hospital Alpha;Centro;65;35,78;2026-05-19 17:34:00
+653;2026-05-19 17:50:00;2026-05-19 19:05:00;74;75,0;Concluida;Linha Comercial Norte;Centro;Distrito Comercial;30;39,64;2026-05-19 18:08:00
+654;2026-05-19 18:25:00;2026-05-19 19:29:00;64;64,0;Concluida;Linha Comercial Sul;Distrito Comercial;Centro;43;45,04;2026-05-19 19:09:00
+656;2026-05-19 19:35:00;2026-05-19 21:18:00;85;103,0;Concluida;Linha Industrial 2;Polo Industrial;Centro;69;36,04;2026-05-19 19:52:00
+657;2026-05-19 20:10:00;2026-05-19 21:53:00;93;103,0;Concluida;Linha Residencial A;Residencial Alpha;Centro;80;13,55;2026-05-19 20:42:00
+659;2026-05-19 21:20:00;2026-05-19 21:56:00;35;36,0;Concluida;Linha Parque Verde;Centro;Parque Verde;91;8,12;2026-05-19 21:47:00
+661;2026-05-19 22:30:00;2026-05-19 23:22:00;56;52,0;Concluida;Linha Aeroporto 1;Centro;Aeroporto Alpha;31;37,92;2026-05-19 22:45:00
+664;2026-05-20 00:15:00;2026-05-20 01:12:00;60;57,0;Concluida;Linha Shopping Sul;Shopping Alpha;Centro;45;35,62;2026-05-20 00:27:00
+667;2026-05-20 05:35:00;2026-05-20 06:41:00;48;66,0;Concluida;Linha Circular Norte;Norte;Oeste;67;29,7;2026-05-20 05:53:00
+669;2026-05-20 06:45:00;2026-05-20 08:05:00;76;80,0;Concluida;Linha Metropolitana 1;Centro;Cidade Beta;17;63,25;2026-05-20 07:03:00
+672;2026-05-20 08:30:00;2026-05-20 09:32:00;62;62,0;Concluida;Linha Expresso Sul;Terminal Sul;Terminal Norte;81;15,01;2026-05-20 09:12:00
+674;2026-05-20 09:40:00;2026-05-20 11:25:00;94;105,0;Concluida;Linha Escolar 2;Escola Alpha;Centro;80;9,13;2026-05-20 10:24:00
+677;2026-05-20 11:25:00;2026-05-20 12:58:00;73;93,0;Concluida;Linha Ecologica 1;Parque Verde;Centro;52;33,37;2026-05-20 11:36:00
+679;2026-05-20 12:35:00;2026-05-20 13:32:00;48;57,0;Concluida;Linha Bairro Alto;Bairro Alto;Centro;53;35,74;2026-05-20 13:16:00
+680;2026-05-20 13:10:00;2026-05-20 14:16:00;45;66,0;Concluida;Linha Bairro Novo;Bairro Novo;Centro;56;27,44;2026-05-20 13:54:00
+681;2026-05-20 13:45:00;2026-05-20 14:28:00;48;43,0;Concluida;Linha Centro Norte;Terminal Norte;Centro;45;41,29;2026-05-20 13:56:00
+682;2026-05-20 14:20:00;2026-05-20 15:44:00;74;84,0;Concluida;Linha Centro Sul;Centro;Terminal Sul;19;37,26;2026-05-20 14:53:00
+683;2026-05-20 14:55:00;2026-05-20 15:52:00;40;57,0;Concluida;Linha Circular 1;Centro;Bairro Industrial;32;62,74;2026-05-20 15:00:00
+684;2026-05-20 15:30:00;2026-05-20 16:38:00;69;68,0;Concluida;Linha Circular 2;Bairro Industrial;Centro;75;30,67;2026-05-20 15:53:00
+687;2026-05-20 17:15:00;2026-05-20 18:02:00;36;47,0;Concluida;Linha Beta Oeste;Oeste;Centro;68;28,58;2026-05-20 17:30:00
+688;2026-05-20 17:50:00;2026-05-20 18:54:00;45;64,0;Concluida;Linha Beta Leste;Leste;Centro;7;63,3;2026-05-20 17:55:00
+691;2026-05-20 19:35:00;2026-05-20 20:58:00;81;83,0;Concluida;Linha Hospital Norte;Centro;Hospital Alpha;13;37,25;2026-05-20 20:18:00
+693;2026-05-20 20:45:00;2026-05-20 21:59:00;54;74,0;Concluida;Linha Comercial Norte;Centro;Distrito Comercial;40;55,53;2026-05-20 21:14:00
+695;2026-05-20 21:55:00;2026-05-20 23:24:00;66;89,0;Concluida;Linha Industrial 1;Centro;Polo Industrial;54;30,07;2026-05-20 22:19:00
+696;2026-05-20 22:30:00;2026-05-20 23:32:00;41;62,0;Concluida;Linha Industrial 2;Polo Industrial;Centro;37;53,61;2026-05-20 23:14:00
+699;2026-05-21 00:15:00;2026-05-21 01:14:00;50;59,0;Concluida;Linha Parque Verde;Centro;Parque Verde;43;54,87;2026-05-21 00:57:00

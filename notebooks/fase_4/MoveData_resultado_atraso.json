@@ -1,0 +1,247 @@
+[
+  {
+    "tipo": "atraso_por_dia",
+    "dia": 1,
+    "mes_ano": "2026-05",
+    "qtd_viagens": 19,
+    "atraso_medio_min": 8.68,
+    "congestionamento_medio_pct": 54.58,
+    "velocidade_media_kmh": 33.36,
+    "pct_viagens_atrasadas": 73.68
+  },
+  {
+    "tipo": "atraso_por_dia",
+    "dia": 2,
+    "mes_ano": "2026-05",
+    "qtd_viagens": 18,
+    "atraso_medio_min": 10.22,
+    "congestionamento_medio_pct": 49.0,
+    "velocidade_media_kmh": 36.42,
+    "pct_viagens_atrasadas": 83.33
+  },
+  {
+    "tipo": "atraso_por_dia",
+    "dia": 3,
+    "mes_ano": "2026-05",
+    "qtd_viagens": 16,
+    "atraso_medio_min": 4.75,
+    "congestionamento_medio_pct": 64.25,
+    "velocidade_media_kmh": 26.58,
+    "pct_viagens_atrasadas": 62.5
+  },
+  {
+    "tipo": "atraso_por_dia",
+    "dia": 4,
+    "mes_ano": "2026-05",
+    "qtd_viagens": 16,
+    "atraso_medio_min": 9.19,
+    "congestionamento_medio_pct": 49.94,
+    "velocidade_media_kmh": 41.18,
+    "pct_viagens_atrasadas": 81.25
+  },
+  {
+    "tipo": "atraso_por_dia",
+    "dia": 5,
+    "mes_ano": "2026-05",
+    "qtd_viagens": 18,
+    "atraso_medio_min": 7.28,
+    "congestionamento_medio_pct": 45.56,
+    "velocidade_media_kmh": 43.88,
+    "pct_viagens_atrasadas": 66.67
+  },
+  {
+    "tipo": "atraso_por_dia",
+    "dia": 6,
+    "mes_ano": "2026-05",
+    "qtd_viagens": 10,
+    "atraso_medio_min": 12.3,
+    "congestionamento_medio_pct": 51.5,
+    "velocidade_media_kmh": 38.04,
+    "pct_viagens_atrasadas": 70.0
+  },
+  {
+    "tipo": "atraso_por_dia",
+    "dia": 7,
+    "mes_ano": "2026-05",
+    "qtd_viagens": 16,
+    "atraso_medio_min": 8.5,
+    "congestionamento_medio_pct": 54.5,
+    "velocidade_media_kmh": 36.38,
+    "pct_viagens_atrasadas": 62.5
+  },
+  {
+    "tipo": "atraso_por_dia",
+    "dia": 8,
+    "mes_ano": "2026-05",
+    "qtd_viagens": 18,
+    "atraso_medio_min": 9.39,
+    "congestionamento_medio_pct": 55.28,
+    "velocidade_media_kmh": 34.0,
+    "pct_viagens_atrasadas": 77.78
+  },
+  {
+    "tipo": "atraso_por_dia",
+    "dia": 9,
+    "mes_ano": "2026-05",
+    "qtd_viagens": 19,
+    "atraso_medio_min": 9.68,
+    "congestionamento_medio_pct": 57.0,
+    "velocidade_media_kmh": 33.81,
+    "pct_viagens_atrasadas": 78.95
+  },
+  {
+    "tipo": "atraso_por_dia",
+    "dia": 10,
+    "mes_ano": "2026-05",
+    "qtd_viagens": 9,
+    "atraso_medio_min": 9.56,
+    "congestionamento_medio_pct": 46.44,
+    "velocidade_media_kmh": 40.7,
+    "pct_viagens_atrasadas": 66.67
+  },
+  {
+    "tipo": "atraso_por_dia",
+    "dia": 11,
+    "mes_ano": "2026-05",
+    "qtd_viagens": 17,
+    "atraso_medio_min": 10.41,
+    "congestionamento_medio_pct": 57.35,
+    "velocidade_media_kmh": 34.59,
+    "pct_viagens_atrasadas": 88.24
+  },
+  {
+    "tipo": "atraso_por_dia",
+    "dia": 12,
+    "mes_ano": "2026-05",
+    "qtd_viagens": 17,
+    "atraso_medio_min": 10.06,
+    "congestionamento_medio_pct": 54.41,
+    "velocidade_media_kmh": 34.67,
+    "pct_viagens_atrasadas": 88.24
+  },
+  {
+    "tipo": "atraso_por_dia",
+    "dia": 13,
+    "mes_ano": "2026-05",
+    "qtd_viagens": 21,
+    "atraso_medio_min": 11.67,
+    "congestionamento_medio_pct": 52.19,
+    "velocidade_media_kmh": 34.59,
+    "pct_viagens_atrasadas": 80.95
+  },
+  {
+    "tipo": "atraso_por_dia",
+    "dia": 14,
+    "mes_ano": "2026-05",
+    "qtd_viagens": 21,
+    "atraso_medio_min": 5.43,
+    "congestionamento_medio_pct": 46.33,
+    "velocidade_media_kmh": 40.78,
+    "pct_viagens_atrasadas": 61.9
+  },
+  {
+    "tipo": "atraso_por_dia",
+    "dia": 15,
+    "mes_ano": "2026-05",
+    "qtd_viagens": 17,
+    "atraso_medio_min": 4.18,
+    "congestionamento_medio_pct": 54.65,
+    "velocidade_media_kmh": 35.42,
+    "pct_viagens_atrasadas": 70.59
+  },
+  {
+    "tipo": "atraso_por_dia",
+    "dia": 16,
+    "mes_ano": "2026-05",
+    "qtd_viagens": 23,
+    "atraso_medio_min": 7.35,
+    "congestionamento_medio_pct": 48.57,
+    "velocidade_media_kmh": 34.88,
+    "pct_viagens_atrasadas": 69.57
+  },
+  {
+    "tipo": "atraso_por_dia",
+    "dia": 17,
+    "mes_ano": "2026-05",
+    "qtd_viagens": 14,
+    "atraso_medio_min": 8.86,
+    "congestionamento_medio_pct": 52.07,
+    "velocidade_media_kmh": 35.51,
+    "pct_viagens_atrasadas": 78.57
+  },
+  {
+    "tipo": "atraso_por_dia",
+    "dia": 18,
+    "mes_ano": "2026-05",
+    "qtd_viagens": 19,
+    "atraso_medio_min": 7.21,
+    "congestionamento_medio_pct": 51.47,
+    "velocidade_media_kmh": 34.26,
+    "pct_viagens_atrasadas": 78.95
+  },
+  {
+    "tipo": "atraso_por_dia",
+    "dia": 19,
+    "mes_ano": "2026-05",
+    "qtd_viagens": 15,
+    "atraso_medio_min": 5.53,
+    "congestionamento_medio_pct": 54.73,
+    "velocidade_media_kmh": 34.32,
+    "pct_viagens_atrasadas": 66.67
+  },
+  {
+    "tipo": "atraso_por_dia",
+    "dia": 20,
+    "mes_ano": "2026-05",
+    "qtd_viagens": 18,
+    "atraso_medio_min": 10.94,
+    "congestionamento_medio_pct": 46.72,
+    "velocidade_media_kmh": 38.31,
+    "pct_viagens_atrasadas": 77.78
+  },
+  {
+    "tipo": "atraso_por_dia",
+    "dia": 21,
+    "mes_ano": "2026-05",
+    "qtd_viagens": 1,
+    "atraso_medio_min": 9.0,
+    "congestionamento_medio_pct": 43.0,
+    "velocidade_media_kmh": 54.87,
+    "pct_viagens_atrasadas": 100.0
+  },
+  {
+    "tipo": "ranking_linha_atraso",
+    "nm_linha": "Linha Circular Norte",
+    "qtd_viagens": 8,
+    "atraso_medio_min": 16.62,
+    "congestionamento_medio_pct": 40.88
+  },
+  {
+    "tipo": "ranking_linha_atraso",
+    "nm_linha": "Linha Alpha Norte",
+    "qtd_viagens": 10,
+    "atraso_medio_min": 13.7,
+    "congestionamento_medio_pct": 37.7
+  },
+  {
+    "tipo": "ranking_linha_atraso",
+    "nm_linha": "Linha Tecnologia",
+    "qtd_viagens": 6,
+    "atraso_medio_min": 13.0,
+    "congestionamento_medio_pct": 50.17
+  },
+  {
+    "tipo": "ranking_linha_atraso",
+    "nm_linha": "Linha Circular 1",
+    "qtd_viagens": 10,
+    "atraso_medio_min": 12.5,
+    "congestionamento_medio_pct": 47.1
+  },
+  {
+    "tipo": "ranking_linha_atraso",
+    "nm_linha": "Linha Circular Sul",
+    "qtd_viagens": 8,
+    "atraso_medio_min": 12.25,
+    "congestionamento_medio_pct": 52.12
+  }
+]
