@@ -1,7 +1,9 @@
 import pandas as pd
 import numpy as np
-from scipy.stats import shapiro, spearmanr
+from scipy.stats import shapiro, spearmanr, chi2_contingency, pearsonr, linregress
 import matplotlib.pyplot as plt
+from pathlib import Path
+import streamlit as st
 
 #=================== PREPARAÇÃO DOS DADOS ==================#
 
@@ -542,7 +544,7 @@ else:
 
 # ================== QUARTA HIPÓTESE ==================#
 
-rint("\n=== H4 - CHUVA X OCUPAÇÃO ===")
+print("\n=== H4 - CHUVA X OCUPAÇÃO ===")
 
 print("\nEstatísticas da chuva:")
 print(df_viagens["chuva_mm"].describe())
