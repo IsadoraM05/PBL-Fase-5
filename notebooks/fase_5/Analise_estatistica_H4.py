@@ -21,7 +21,7 @@ print("Bases carregadas com sucesso!")
 print(f"Viagens: {df_viagens.shape}")
 print(f"Eventos: {df_eventos.shape}")
 
-print("\n=== H3 - CHUVA X OCUPAÇÃO ===")
+print("\n=== H4 - CHUVA X OCUPAÇÃO ===")
 
 print("\nEstatísticas da chuva:")
 print(df_viagens["chuva_mm"].describe())
