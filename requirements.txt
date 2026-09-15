@@ -1,0 +1,11 @@
+# MoveData - PBL Fase 5
+# Instalacao: pip install -r requirements.txt
+# Versoes usadas na execucao do notebook MoveData_PBL_Fase_5.ipynb
+pandas==2.2.2
+numpy==2.5.1
+scipy==1.18.1
+matplotlib==3.11.1
+streamlit==1.64.0
+openpyxl==3.1.2
+# post-hoc de Dunn na H2 (traz statsmodels/seaborn como dependencias)
+scikit-posthocs==0.17.0
