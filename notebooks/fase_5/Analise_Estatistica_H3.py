@@ -1,10 +1,17 @@
+import os
+from pathlib import Path
 import pandas as pd
 import numpy as np
 from scipy.stats import spearmanr, chi2_contingency, pearsonr
 import matplotlib.pyplot as plt
 
+# Pasta de saida dos graficos (PNG para o relatorio)
+PASTA_GRAFICOS = Path(__file__).resolve().parents[2] / "relatorio" / "graficos"
+os.makedirs(PASTA_GRAFICOS, exist_ok=True)
+
+
 # Caminho da base de dados
-caminho = "dados/Dados PBL fase 5.xlsx"
+caminho = Path(__file__).resolve().parents[2] / "dados" / "Dados PBL fase 5.xlsx"
 
 # Carregando as bases
 df_viagens = pd.read_excel(
@@ -42,6 +49,11 @@ plt.xlabel("Chuva (mm)")
 plt.ylabel("Congestionamento (%)")
 plt.grid(True)
 plt.tight_layout()
+plt.savefig(
+    os.path.join(PASTA_GRAFICOS, "H3_chuva_congestionamento.png"),
+    dpi=150,
+    bbox_inches="tight"
+)
 plt.show()
 
 print("\n=== CORRELAÇÃO DE PEARSON - H3 ===")

@@ -1,10 +1,16 @@
+import os
 from pathlib import Path
 import pandas as pd
 import matplotlib.pyplot as plt
 from scipy.stats import pearsonr, spearmanr, linregress
 
+# Pasta de saida dos graficos (PNG para o relatorio)
+PASTA_GRAFICOS = Path(__file__).resolve().parents[2] / "relatorio" / "graficos"
+os.makedirs(PASTA_GRAFICOS, exist_ok=True)
+
+
 # Caminho da base de dados
-caminho = "dados/Dados PBL fase 5.xlsx"
+caminho = Path(__file__).resolve().parents[2] / "dados" / "Dados PBL fase 5.xlsx"
 
 # Carregando as bases
 df_viagens = pd.read_excel(
@@ -56,6 +62,11 @@ plt.xlabel("Movimentação de passageiros (embarques + desembarques)")
 plt.ylabel("Tempo de parada (min)")
 plt.grid(True)
 plt.tight_layout()
+plt.savefig(
+    os.path.join(PASTA_GRAFICOS, "H6_movimentacao_tempo_parada.png"),
+    dpi=150,
+    bbox_inches="tight"
+)
 plt.show()
 
 # ============================================================

@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+.pytest_cache/
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Backups e arquivos temporarios
+*_BACKUP.xlsx
+*_backup.xlsx
+*.bak
+*.tmp
+*.novo
+~$*.xlsx
+~$*.docx
+
+# Pastas temporarias de teste
+tmp/
+temp/
+scratch/
+_teste/
+_temp/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini

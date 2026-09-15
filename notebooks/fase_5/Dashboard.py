@@ -1,3 +1,5 @@
+from pathlib import Path
+
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -140,7 +142,7 @@ st.markdown(
 )
 
 # Caminho da base de dados
-caminho = "dados/Dados PBL fase 5.xlsx"
+caminho = Path(__file__).resolve().parents[2] / "dados" / "Dados PBL fase 5.xlsx"
 
 # Carregamento das bases
 df_viagens = pd.read_excel(
@@ -365,9 +367,9 @@ with col1:
     st.pyplot(fig, use_container_width=True)
     plt.close(fig)
 
-# Ocupação x Eficiência energética
+# Ocupação x Consumo energético por km
 with col2:
-    st.markdown("**Ocupação x Eficiência energética**")
+    st.markdown("**Ocupação x Consumo energético (kWh/km)**")
 
     fig, ax = plt.subplots(figsize=(5, 3))
 
@@ -380,7 +382,7 @@ with col2:
     )
 
     ax.set_xlabel("Ocupação média (%)")
-    ax.set_ylabel("Eficiência (kWh/km)")
+    ax.set_ylabel("Consumo energético (kWh/km)")
 
     ax.grid(
         alpha=0.18,
@@ -508,7 +510,8 @@ with col1:
             <div class="insight-title">🚦 Congestionamento</div>
             <div class="insight-text">
                 Foi observada uma correlação positiva moderada entre
-                congestionamento e atraso (r = 0,5633).
+                congestionamento e atraso
+                (Spearman &rho; = 0,55; p &lt; 0,001).
                 Isso indica que maiores níveis de congestionamento
                 tendem a estar associados a maiores atrasos.
             </div>
@@ -561,10 +564,11 @@ st.markdown(
     </div>
 
     <div class="recommendation-card">
-        <strong>Monitoramento de trechos congestionados</strong><br>
-        Monitorar trechos com maior congestionamento,
-        priorizando regiões onde o aumento do trânsito esteja
-        associado a maiores atrasos.
+        <strong>Monitoramento contínuo do congestionamento</strong><br>
+        Monitorar continuamente os níveis de congestionamento da frota,
+        já que ele está associado a mais atraso (H1), mas sem evidência
+        até o momento de que alguma linha específica seja mais crítica
+        que outra.
     </div>
 
     <div class="recommendation-card">
